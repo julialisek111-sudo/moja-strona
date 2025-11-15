@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "description": "Nowoczesny laptop z szybkim procesorem.",
+      "img_path": "/images/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Smartfon",
+      "description": "Smartfon z doskonałym aparatem fotograficznym.",
+      "img_path": "/images/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Słuchawki",
+      "description": "Bezprzewodowe słuchawki z redukcją szumów.",
+      "img_path": "/images/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mysz komputerowa",
+      "description": "Ergonomiczna mysz dla graczy.",
+      "img_path": "/images/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Klawiatura mechaniczna",
+      "description": "Klawiatura z podświetleniem RGB.",
+      "img_path": "/images/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Monitor 4K",
+      "description": "Monitor o wysokiej rozdzielczości.",
+      "img_path": "/images/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Drukarka",
+      "description": "Wielofunkcyjna drukarka do domu i biura.",
+      "img_path": "/images/7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Głośniki Bluetooth",
+      "description": "Przenośne głośniki o czystym dźwięku.",
+      "img_path": "/images/8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Kamera internetowa",
+      "description": "Kamera HD do wideokonferencji.",
+      "img_path": "/images/9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Zewnętrzny dysk twardy",
+      "description": "Pojemny dysk do przechowywania danych.",
+      "img_path": "/images/10.jpg"
+    }
+  ]
+}
