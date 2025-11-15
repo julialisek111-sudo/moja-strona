@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="modal-overlay">
+        <div id="modal">
+            <div class="side left">
+                <img id="modal_img" src="images/placeholder.jpg" alt="PLACEHOLDER">
+            </div>
+            <div id="middle">
+                <div id="left_border_div" class="border_div"></div>
+                <div class="border_div"></div>
+            </div>
+            <div class="side right">
+                <div id="top">
+                    <img id="exit_button" src="images/x.png" alt="exit">
+                </div>
+                <div id="bottom">
+                    <div class="photo_title">
+                        <h1>PLACEHOLDER</h1>
+                    </div>
+                    <div class="photo_description">
+                        <h1>PLACEHOLDER</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <header>
+        <div class="center logo">
+            <img id="logo" src="images/logo.jpg" alt="Logo">
+        </div>
+        <div class="center title">
+            <h1>Julianna Lisek | Rękodzieło Artystyczne</h1>
+        </div>
+    </header>
+
+    <section>
+        <aside>
+            <button id="about-me-btn" class="aside_button" 
+                    data-source="data/bio.json" 
+                    data-type="single">O MNIE</button>
+
+            <button id="gallery-btn" class="aside_button active">GALERIA</button>
+
+            <button id="socials_button" class="aside_button"
+                    data-source="data/socials.json"
+                    data-type="socials">MOJE SOCIALE</button>
+
+            <button id="contact_button" class="aside_button"
+                    data-source="data/contact.json"
+                    data-type="contact">KONTAKT</button>
+        </aside>
+        
+        <main>   
+            <article id="main_article"></article>                                                                            
+        </main>
+    </section>
+
+    <footer class="center">
+        <h1 class="white_text">Zamów rękodzieło już dziś!</h1>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
