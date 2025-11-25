@@ -22,31 +22,31 @@
       "id": 4,
       "title": "Mysz komputerowa",
       "description": "Ergonomiczna mysz dla graczy.",
-      "img_path": "/images/4.jpg"
+      "img_path": "/images/zdj7.jpg"
     },
     {
       "id": 5,
       "title": "Klawiatura mechaniczna",
       "description": "Klawiatura z podświetleniem RGB.",
-      "img_path": "/images/5.jpg"
+      "img_path": "/images/zdj10.jpg"
     },
     {
       "id": 6,
       "title": "Monitor 4K",
       "description": "Monitor o wysokiej rozdzielczości.",
-      "img_path": "/images/6.jpg"
+      "img_path": "/images/zdj8.jpg"
     },
     {
       "id": 7,
       "title": "Drukarka",
       "description": "Wielofunkcyjna drukarka do domu i biura.",
-      "img_path": "/images/7.jpg"
+      "img_path": "/images/zdj9.jpg"
     },
     {
       "id": 8,
       "title": "Głośniki Bluetooth",
       "description": "Przenośne głośniki o czystym dźwięku.",
-      "img_path": "/images/8.jpg"
+      "img_path": "/images/zdj4.jpg"
     },
     {
       "id": 9,
@@ -58,7 +58,7 @@
       "id": 10,
       "title": "Zewnętrzny dysk twardy",
       "description": "Pojemny dysk do przechowywania danych.",
-      "img_path": "/images/10.jpg"
+      "img_path": "/images/zdj.jpg"
     }
   ]
 }
