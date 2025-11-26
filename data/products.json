@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "title": "Laptop",
-      "description": "Nowoczesny laptop z szybkim procesorem.",
+      "title": "Portret pary",
+      "description": "Portret pary wykonany ołówkiem. Format: A3.",
       "img_path": "/images/zdj5.jpg"
     },
     {
