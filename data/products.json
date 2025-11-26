@@ -50,14 +50,14 @@
     },
     {
       "id": 9,
-      "title": "Kamera internetowa",
-      "description": "Kamera HD do wideokonferencji.",
+      "title": "Motyl",
+      "description": "Dziewczyna z motylem na twarzy, inspirowane fotografiami z pinteresta. Rysunek w pełni wykonany kolorowym długopisem, chciałam zrobic sobie małe wyzwanie.Format kwadrat, długopis.",
       "img_path": "/images/zdj1.jpg"
     },
     {
       "id": 10,
-      "title": "Zewnętrzny dysk twardy",
-      "description": "Pojemny dysk do przechowywania danych.",
+      "title": "...",
+      "description": "...",
       "img_path": "/images/zdj.jpg"
     }
   ]
