@@ -59,6 +59,12 @@
       "title": "...",
       "description": "...",
       "img_path": "/images/zdj.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Rysunek-Angel Dust",
+      "description": "Postac z filmu Hazbin Hotel. Rysunek wykonany promarkerami i kredkami koh i noor.Format kwadrat.",
+      "img_path": "/images/zdj11.jpg"
     }
   ]
 }
